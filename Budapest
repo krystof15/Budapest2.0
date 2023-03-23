@@ -1,1 +1,43 @@
 
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Kovács és Fiai Kft.</title>
+    <link rel="stylesheet" href="stilusok.CSS">
+</head>
+
+<body>
+    <div id="tarolo">
+        <header>
+            <h1>Kovács & Fiai Szobafestő és Mázoló Kft.</h1>
+            <ul>
+                <li><a href="Létrejötte.HTML">Létrejötte</a></li>
+                <li><a href="Budapest.HTML">Budapest</a></li>
+                <li><a href="arak.html">Árak</a></li>
+                <li><a href="ajanlat.html">Ajánlatkérés</a></li>
+            </ul>
+        </header>
+        <main>
+        <figure>
+            <img src="" alt="" width="280" height="193">
+            <figcaption></figcaption>
+        </figure>
+            <h2></h2>
+            <h3></h3>
+            <ol>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ol>
+            <h3></h3>
+        </main>
+        <footer>
+            <p>&copy; Minden jog fenntartva.</p>
+        </footer>
+    </div>
+</body>
+
+</html>
